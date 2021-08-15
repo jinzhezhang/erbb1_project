@@ -1,4 +1,10 @@
 # ChemTS - Lite
+
+This is a on-going renewal project of the original ChemTS code. We aim to:
+  1. Make the code easier to understand and easier to use
+  2. Add python3 and TensorFlow 2.0 support
+  3. Make the evaluation function easy to modify
+
 Molecule Design using Monte Carlo Tree Search with Neural Rollout. ChemTS can design novel molecules with desired properties(such as, HOMO-LUMO gap, energy, logp..). Combining with rDock, ChemTS can design molecules active to target proteins. The ChemTS paper is available at https://arxiv.org/abs/1710.00616 .　Also, we introduced the distributed parallel ChemTS that can accerlate molecular discovery. And the distributed parallel ChemTS is available at https://github.com/tsudalab/DP-ChemTS.
 
 #  Requirements 
