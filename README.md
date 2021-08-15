@@ -4,6 +4,8 @@ This project uses 3 generative models: RXN Generator, JT-VAE and ChemTS, and 1 p
 
 
 ![title](images/ic50_density.png)
+
+![title](images/rxn_route1.png)
 # Requirements
 
     conda env create -f environment.yml
