@@ -1,0 +1,6 @@
+cuda
+cuda
+The code uses a GPU!
+metric is erbb1
+hidden size: 200 latent_size: 50 depth: 2
+loading data.....

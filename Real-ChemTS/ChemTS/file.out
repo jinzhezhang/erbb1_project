@@ -1,0 +1,5 @@
+nohup: 入力を無視します
+can't find package Expect
+    while executing
+"package require Expect"
+    (file "/usr/bin/unbuffer" line 6)
