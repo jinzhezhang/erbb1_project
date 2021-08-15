@@ -2,7 +2,7 @@
 
 This project uses 3 generative models: RXN Generator, JT-VAE and ChemTS, and 1 predictive model: GNN, to generate candidates with good affinity against erbb1 receptor.
 
-To make a long story short: generating a molecule with an optimized property doesn't seem that hard, however, not every proposed molecule candidate can be synthesized. In this work, our main goal is not only generate good drug candidates, but also purpose synthetic pathway that can help us synthesis the molecule in the real world. 
+To make a long story short: generating a molecule with an optimized property doesn't seem that hard, however, not every proposed molecule candidate can be synthesized. (In fact, most of them can not be synthesized easily) In this work, our main goal is not only generate good drug candidates, but also purpose synthetic pathway that can help us syntheze the molecule in the real world. 
 
 Although we have successfully generated molecules with their synthetic pathway using RXN Generator, we noticed that due to various factors, the desired property is not fully optimized. We therefore conducted similar molecule generation task using both ChemTS and JT-VAE. The results hint us a bit about what could have happened for RXN Generator and show light about how to improve in the future.
 
