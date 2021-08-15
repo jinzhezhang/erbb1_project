@@ -8,7 +8,7 @@ import os
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
 import sys
-sys.path.append('/home/zhang/elix')
+sys.path.append('../..')
 import gnn.main.preprocess as pp
 import gnn.main.config as config
 import gnn.main.models as models

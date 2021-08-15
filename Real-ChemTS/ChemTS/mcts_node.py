@@ -7,7 +7,7 @@ import sascorer
 import networkx as nx
 from rdkit.Chem import rdmolops
 import sys
-sys.path.append('/home/zhang/elix')
+sys.path.append('../..')
 from gnn.main.predict import predict_vec
 import gnn.main.config as config
 import gnn.main.preprocess as pp

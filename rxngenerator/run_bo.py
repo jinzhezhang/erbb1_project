@@ -26,7 +26,7 @@ from sparse_gp import SparseGP
 import scipy.stats as sps
 
 import sys
-sys.path.append('/home/zhang/elix')
+sys.path.append('../')
 import gnn.main.preprocess as pp
 import gnn.main.config as config
 import gnn.main.models as models

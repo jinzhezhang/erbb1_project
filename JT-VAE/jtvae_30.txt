@@ -1,0 +1,995 @@
+load atom
+load bond
+load fp
+load edge
+(7111, 900) (7111, 1)
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.9675287914420476
+Test ll:  -2.54681819299284
+Train RMSE:  1.8802167806515702
+Train ll:  -2.4301147863528145
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[0.0002774 ]
+ [0.00020036]
+ [0.00018093]
+ [0.00026241]
+ [0.00031429]
+ [0.00030903]
+ [0.00030824]
+ [0.00025389]
+ [0.00024867]
+ [0.00032524]]
+10 molecules are found
+O=c1c2ccccc2nc(I)n1-c1c(I)c(I)c(I)c(I)c1I | 8.549976
+O=[PH](=O)=O | 5.812327
+O=P(=O)(O)(O)O | 4.8266835
+Nc1c(I)c(I)c(I)c(I)c1I | 8.190701
+O=CNc1ccccc1 | 9.213284
+O=[PH](=O)=O | 5.812327
+O=C=O | 4.6865907
+O=C1NC(=O)C(=O)N1 | 9.211745
+O=[PH](=O)=O | 5.812327
+CNc1c(O)c(Br)c(Br)c(Br)c1I | 5.2461066
+['O=c1c2ccccc2nc(I)n1-c1c(I)c(I)c(I)c(I)c1I', 'O=[PH](=O)=O', 'O=P(=O)(O)(O)O', 'Nc1c(I)c(I)c(I)c(I)c1I', 'O=CNc1ccccc1', 'O=[PH](=O)=O', 'O=C=O', 'O=C1NC(=O)C(=O)N1', 'O=[PH](=O)=O', 'CNc1c(O)c(Br)c(Br)c(Br)c1I']
+[8.549976, 5.812327, 4.8266835, 8.190701, 9.213284, 5.812327, 4.6865907, 9.211745, 5.812327, 5.2461066]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.9607871627154465
+Test ll:  -2.53451344163919
+Train RMSE:  1.857833889398195
+Train ll:  -2.38006443356972
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[ 2.81084244e-04]
+ [ 3.07182323e-04]
+ [ 2.24957790e-04]
+ [ 2.09255389e-04]
+ [ 2.09489662e-04]
+ [ 3.02592811e-04]
+ [-2.24451342e+01]
+ [-1.85440740e+01]
+ [-1.74640818e+01]
+ [-1.88405414e+01]]
+10 molecules are found
+NCN1C(=O)NC(=O)C1=O | 8.360567
+NC=O | 7.012098
+O=[PH](=O)=O | 5.812327
+Nc1c(I)c(I)c(I)c(I)c1I | 8.190701
+O=[PH](=O)=O | 5.812327
+O=Cn1c(=O)[nH]c2cc(Br)c(Nc3ccccc3)cc21 | 4.3280873
+COCCCc1ccc(Nc2cnc(C(N)=O)c(Oc3cccc(NC(=O)C=CCN(C)C)c3)n2)cc1 | 3.9545517
+C=CC(=O)Nc1cccc(Oc2ncc(Nc3cccc(C(F)(F)F)c3)nc2Nc2ccc(CCc3ccccc3)cc2)c1 | 5.431765
+C=CC(=O)Nc1cccc(Oc2ncc(Nc3ccc(CCCOC)cc3)nc2-c2cccc3ccccc23)c1 | 4.579324
+C=CC(=O)Nc1cccc(Oc2nc3c(nc2Nc2ccc(CCCOC)cc2)CC(c2ccccc2)S3)c1 | -0.67369795
+['NCN1C(=O)NC(=O)C1=O', 'NC=O', 'O=[PH](=O)=O', 'Nc1c(I)c(I)c(I)c(I)c1I', 'O=[PH](=O)=O', 'O=Cn1c(=O)[nH]c2cc(Br)c(Nc3ccccc3)cc21', 'COCCCc1ccc(Nc2cnc(C(N)=O)c(Oc3cccc(NC(=O)C=CCN(C)C)c3)n2)cc1', 'C=CC(=O)Nc1cccc(Oc2ncc(Nc3cccc(C(F)(F)F)c3)nc2Nc2ccc(CCc3ccccc3)cc2)c1', 'C=CC(=O)Nc1cccc(Oc2ncc(Nc3ccc(CCCOC)cc3)nc2-c2cccc3ccccc23)c1', 'C=CC(=O)Nc1cccc(Oc2nc3c(nc2Nc2ccc(CCCOC)cc2)CC(c2ccccc2)S3)c1']
+[8.360567, 7.012098, 5.812327, 8.190701, 5.812327, 4.3280873, 3.9545517, 5.431765, 4.579324, -0.67369795]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.9472626820548422
+Test ll:  -2.515674837797435
+Train RMSE:  1.8867786325278866
+Train ll:  -2.4173142730216863
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[-2.51801325]
+ [-2.26834865]
+ [-2.26428688]
+ [-2.26420911]
+ [-2.26418486]
+ [-2.2642269 ]
+ [-2.26415522]
+ [-2.26453798]
+ [-2.26420215]
+ [-2.26381343]]
+10 molecules are found
+O=[PH](=O)=O | 5.812327
+O=[PH](=O)=O | 5.812327
+O=[PH](=O)=O | 5.812327
+O=[PH](=O)=O | 5.812327
+O=[PH](=O)=O | 5.812327
+O=[PH](=O)=O | 5.812327
+O=[PH](=O)=O | 5.812327
+O=[PH](=O)=O | 5.812327
+O=[PH](=O)=O | 5.812327
+O=[PH](=O)=O | 5.812327
+['O=[PH](=O)=O', 'O=[PH](=O)=O', 'O=[PH](=O)=O', 'O=[PH](=O)=O', 'O=[PH](=O)=O', 'O=[PH](=O)=O', 'O=[PH](=O)=O', 'O=[PH](=O)=O', 'O=[PH](=O)=O', 'O=[PH](=O)=O']
+[5.812327, 5.812327, 5.812327, 5.812327, 5.812327, 5.812327, 5.812327, 5.812327, 5.812327, 5.812327]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.980753073342603
+Test ll:  -2.5558471294095537
+Train RMSE:  1.9349870687888686
+Train ll:  -2.4783014184417604
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[-2.86647592]
+ [-2.80850608]
+ [-2.80612926]
+ [-2.79724656]
+ [-2.77962754]
+ [-2.74791942]
+ [-2.73157777]
+ [-2.73132274]
+ [-2.73043045]
+ [-2.73050912]]
+10 molecules are found
+O=[PH](=O)=O | 5.812327
+O=P(=O)(=O)O | 5.9682827
+O=[PH](=O)=O | 5.812327
+O=[PH](=O)=O | 5.812327
+O=P(=O)(=O)O | 5.9682827
+O=[PH](=O)=O | 5.812327
+O=[PH](=O)=O | 5.812327
+O=[PH](=O)=O | 5.812327
+O=[PH](=O)=O | 5.812327
+O=[PH](=O)=O | 5.812327
+['O=[PH](=O)=O', 'O=P(=O)(=O)O', 'O=[PH](=O)=O', 'O=[PH](=O)=O', 'O=P(=O)(=O)O', 'O=[PH](=O)=O', 'O=[PH](=O)=O', 'O=[PH](=O)=O', 'O=[PH](=O)=O', 'O=[PH](=O)=O']
+[5.812327, 5.9682827, 5.812327, 5.812327, 5.9682827, 5.812327, 5.812327, 5.812327, 5.812327, 5.812327]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  2.0503775928318024
+Test ll:  -2.671319518554503
+Train RMSE:  2.0348707796572714
+Train ll:  -2.6362300286055422
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[0.00067165]
+ [0.00060183]
+ [0.00066241]
+ [0.00067483]
+ [0.00067259]
+ [0.00058021]
+ [0.00057544]
+ [0.00060545]
+ [0.00056658]
+ [0.00064085]]
+10 molecules are found
+Ic1cccc(Nc2c(I)cc(Sc3ccccc3)cc2I)c1 | 4.7443633
+O=c1cc(Sc2ccccc2)oc2ccccc12 | 11.921816
+O=[PH]=O | 5.635686
+O=C=O | 4.6865907
+O=C1CC(=O)c2cc3ccccc3cc2O1 | 7.577791
+O=CNN1C(=O)c2cccc(Sc3ccccc3)c2C1=O | 10.555734
+O=C=O | 4.6865907
+N=C1C(=O)CNCCc2cc(I)cc(c2)Oc2cc(I)c(c(I)c2)CCNC(=O)CCc2c(Br)c(c(Br)c3c(I)nc(O)nc23)Oc2cc(I)c1c1occc21 | 7.574997
+Oc1c(I)c(I)c(I)c(I)c1I | 7.875985
+O=CNN(c1ccccc1)N1C(=O)c2ccc3ccccc3c2C1=O | 9.136811
+['Ic1cccc(Nc2c(I)cc(Sc3ccccc3)cc2I)c1', 'O=c1cc(Sc2ccccc2)oc2ccccc12', 'O=[PH]=O', 'O=C=O', 'O=C1CC(=O)c2cc3ccccc3cc2O1', 'O=CNN1C(=O)c2cccc(Sc3ccccc3)c2C1=O', 'O=C=O', 'N=C1C(=O)CNCCc2cc(I)cc(c2)Oc2cc(I)c(c(I)c2)CCNC(=O)CCc2c(Br)c(c(Br)c3c(I)nc(O)nc23)Oc2cc(I)c1c1occc21', 'Oc1c(I)c(I)c(I)c(I)c1I', 'O=CNN(c1ccccc1)N1C(=O)c2ccc3ccccc3c2C1=O']
+[4.7443633, 11.921816, 5.635686, 4.6865907, 7.577791, 10.555734, 4.6865907, 7.574997, 7.875985, 9.136811]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.9637849071145546
+Test ll:  -2.5476536184831593
+Train RMSE:  1.9167371522069192
+Train ll:  -2.4468731836361575
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[0.00102323]
+ [0.00104485]
+ [0.00132061]
+ [0.0023787 ]
+ [0.00114269]
+ [0.00210307]
+ [0.00198585]
+ [0.002697  ]
+ [0.00113172]
+ [0.00232749]]
+10 molecules are found
+COc1ccc2c(c1O)c(=O)oc1c(I)cc(I)c(O)c12 | 8.058745
+O=C1C(=O)N2C=NC(N3CC=CCC3)=CC23C(I)=C(I)C(I)=C(I)C13 | 4.07251
+O=C1CCc2cccc(c2)Oc2ccc(c3ccccc23)CCCNCCc2cccc(c2)Oc2ccc(c3ccccc23)CCN1 | 5.22078
+N#COc1c(I)c(I)c(I)c(I)c1I | 8.716944
+Oc1c(I)c(I)c(O)c(I)c1I | 7.5889964
+O=COc1c(I)cc(I)c(I)c1I | 9.19446
+O=C1NC(=O)c2cc(Sc3ccccc3)c(Nc3ccccc3)cc21 | 9.987346
+O=C1CCc2cccc(c2)Oc2ccc(cc2)CCCNc2c(I)cc3c(c2-c2cc(c4oc5cc6c(cc5c4c2)OCCO6)Oc2ccc(cc2)CCN1)OCCO3 | 8.145954
+O=C1NC(=O)C23C=CC=CC12C=C(I)C(Sc1ccccc1)=C3 | 4.6113124
+Brc1c(I)c(-n2cnc3ccccc32)c2ccccc2c1Br | 4.3850765
+['COc1ccc2c(c1O)c(=O)oc1c(I)cc(I)c(O)c12', 'O=C1C(=O)N2C=NC(N3CC=CCC3)=CC23C(I)=C(I)C(I)=C(I)C13', 'O=C1CCc2cccc(c2)Oc2ccc(c3ccccc23)CCCNCCc2cccc(c2)Oc2ccc(c3ccccc23)CCN1', 'N#COc1c(I)c(I)c(I)c(I)c1I', 'Oc1c(I)c(I)c(O)c(I)c1I', 'O=COc1c(I)cc(I)c(I)c1I', 'O=C1NC(=O)c2cc(Sc3ccccc3)c(Nc3ccccc3)cc21', 'O=C1CCc2cccc(c2)Oc2ccc(cc2)CCCNc2c(I)cc3c(c2-c2cc(c4oc5cc6c(cc5c4c2)OCCO6)Oc2ccc(cc2)CCN1)OCCO3', 'O=C1NC(=O)C23C=CC=CC12C=C(I)C(Sc1ccccc1)=C3', 'Brc1c(I)c(-n2cnc3ccccc32)c2ccccc2c1Br']
+[8.058745, 4.07251, 5.22078, 8.716944, 7.5889964, 9.19446, 9.987346, 8.145954, 4.6113124, 4.3850765]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.9879348394011458
+Test ll:  -2.570391321148684
+Train RMSE:  1.9736094835834372
+Train ll:  -2.520848701632119
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[0.00163261]
+ [0.00212111]
+ [0.00204487]
+ [0.00230199]
+ [0.00259843]
+ [0.00228713]
+ [0.00236639]
+ [0.00192643]
+ [0.00211029]
+ [0.00219334]]
+10 molecules are found
+Ic1c(I)c(I)c(I)c(I)c1I | 8.276344
+Oc1cc(I)cc(I)c1-c1c(O)c(I)cc(I)c1I | 6.2671084
+O=[PH](=O)=O | 5.812327
+O=C1N(c2ccccc2)C(I)=NC2C=C(I)N=CC12I | 3.5463638
+ICOc1c(I)c(I)c(I)c(I)c1I | 9.247794
+O=C1CC(I)CC(Nc2c(O)c(I)cc(I)c2I)C1 | 6.587138
+N#CSc1cc(I)c(I)cc1I | 6.3821254
+COC=O | 7.5148826
+NC1=Cc2c(nc[nH]c2=O)CC1 | 6.866138
+Ic1cc(I)c(Nc2ccccc2)c(I)c1 | 4.3981028
+['Ic1c(I)c(I)c(I)c(I)c1I', 'Oc1cc(I)cc(I)c1-c1c(O)c(I)cc(I)c1I', 'O=[PH](=O)=O', 'O=C1N(c2ccccc2)C(I)=NC2C=C(I)N=CC12I', 'ICOc1c(I)c(I)c(I)c(I)c1I', 'O=C1CC(I)CC(Nc2c(O)c(I)cc(I)c2I)C1', 'N#CSc1cc(I)c(I)cc1I', 'COC=O', 'NC1=Cc2c(nc[nH]c2=O)CC1', 'Ic1cc(I)c(Nc2ccccc2)c(I)c1']
+[8.276344, 6.2671084, 5.812327, 3.5463638, 9.247794, 6.587138, 6.3821254, 7.5148826, 6.866138, 4.3981028]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.9921930931819651
+Test ll:  -2.577036482589998
+Train RMSE:  2.008958239269892
+Train ll:  -2.55026543931906
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[0.00042869]
+ [0.00046814]
+ [0.00034642]
+ [0.00064723]
+ [0.00023941]
+ [0.00044317]
+ [0.00060166]
+ [0.00081836]
+ [0.00054607]
+ [0.0004841 ]]
+10 molecules are found
+Nc1c(I)c(Br)c(I)c(I)c1I | 6.4098954
+O=C1NC23C=CC=CC2(N1)C1=C(O3)c2ccccc2CC1 | 7.760287
+Oc1ccc2ccccc2c1 | 7.1642556
+Nc1c(I)cc(I)c2ccccc12 | 7.2679467
+O=C1CC(=O)c2ccc3ccccc3c2O1 | 8.234948
+BrC1=c2ccccc2=C(I)CC1 | 9.781779
+Nc1c(I)c(Br)c(I)c2cccnc12 | 6.0135264
+O=[PH](=O)=O | 5.812327
+Nc1ccc(-n2c(=O)c(I)c(I)c3cccnc32)cc1 | 10.209582
+COc1c(I)c(I)c(I)c(I)c1I | 8.936162
+['Nc1c(I)c(Br)c(I)c(I)c1I', 'O=C1NC23C=CC=CC2(N1)C1=C(O3)c2ccccc2CC1', 'Oc1ccc2ccccc2c1', 'Nc1c(I)cc(I)c2ccccc12', 'O=C1CC(=O)c2ccc3ccccc3c2O1', 'BrC1=c2ccccc2=C(I)CC1', 'Nc1c(I)c(Br)c(I)c2cccnc12', 'O=[PH](=O)=O', 'Nc1ccc(-n2c(=O)c(I)c(I)c3cccnc32)cc1', 'COc1c(I)c(I)c(I)c(I)c1I']
+[6.4098954, 7.760287, 7.1642556, 7.2679467, 8.234948, 9.781779, 6.0135264, 5.812327, 10.209582, 8.936162]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.98737640872675
+Test ll:  -2.5730019377640847
+Train RMSE:  1.9956455183214028
+Train ll:  -2.5218027648846264
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[0.00078728]
+ [0.00138631]
+ [0.00074115]
+ [0.00081125]
+ [0.00213697]
+ [0.00099067]
+ [0.00128479]
+ [0.00092696]
+ [0.00190353]
+ [0.00152142]]
+10 molecules are found
+O=CN1C(=O)C(=O)N(C2(O)Nc3ccccc3N2)C1=O | 9.687442
+N#CNc1c(I)c(I)c(I)c(I)c1I | 8.507283
+C[IH]C[IH]C[IH]C | 5.3408313
+Nc1ccc(Nc2cc(Br)c3c(c2N)C(=O)NC3=O)cc1 | 9.698977
+O=C1NC(=O)C2(O)Nc3ccc(O)c(I)c3N12 | 9.570648
+O=C1C(=O)N2C=CC(I)=CC23C(I)=C(I)C(I)=C(I)C13 | 5.2901926
+O=C(I)Nc1cc(NC(=O)I)c(I)cc1I | 8.572021
+Oc1c(I)c(I)c(I)c(I)c1I | 7.875985
+O=CNc1cc2oc3ccc(O)cc3c2cc1NC=O | 10.681495
+C[IH]C[IH]CI | 5.2726088
+['O=CN1C(=O)C(=O)N(C2(O)Nc3ccccc3N2)C1=O', 'N#CNc1c(I)c(I)c(I)c(I)c1I', 'C[IH]C[IH]C[IH]C', 'Nc1ccc(Nc2cc(Br)c3c(c2N)C(=O)NC3=O)cc1', 'O=C1NC(=O)C2(O)Nc3ccc(O)c(I)c3N12', 'O=C1C(=O)N2C=CC(I)=CC23C(I)=C(I)C(I)=C(I)C13', 'O=C(I)Nc1cc(NC(=O)I)c(I)cc1I', 'Oc1c(I)c(I)c(I)c(I)c1I', 'O=CNc1cc2oc3ccc(O)cc3c2cc1NC=O', 'C[IH]C[IH]CI']
+[9.687442, 8.507283, 5.3408313, 9.698977, 9.570648, 5.2901926, 8.572021, 7.875985, 10.681495, 5.2726088]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.993660986082068
+Test ll:  -2.580473097117749
+Train RMSE:  2.0315382027639917
+Train ll:  -2.564897607973442
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[ 0.00152409]
+ [ 0.00156414]
+ [-0.87449534]
+ [ 0.00199951]
+ [ 0.00151241]
+ [ 0.00158599]
+ [ 0.00213206]
+ [ 0.00274396]
+ [ 0.00163211]
+ [ 0.00172452]]
+10 molecules are found
+Oc1c(I)c(Br)c(I)c(I)c1Nc1cccc(I)c1 | 4.540868
+Nc1c(O)c(I)c(Br)c(I)c1I | 5.4790506
+COc1cccc2c1sc1ncnc(Nc3ccc(Cl)cc3)c12 | 8.645073
+O=[PH](=O)=O | 5.812327
+Brc1c(I)c(I)c(I)c(I)c1I | 6.69476
+CN(C(=O)I)c1ccc(I)c(NC=O)c1 | 8.566881
+Nc1ncc2c(n1)-c1cc(Cl)ccc1CS2 | 10.479847
+O=C1C(=O)C(Nc2c(O)c(I)c(I)c(I)c2I)c2ccc(O)cc21 | 9.416016
+O=[PH](=O)=O | 5.812327
+O=CNN1C(=O)c2c(O)c(Sc3ccc(O)cc3)c3[nH]c4c(O)cccc4c3c2C1=O | 9.060488
+['Oc1c(I)c(Br)c(I)c(I)c1Nc1cccc(I)c1', 'Nc1c(O)c(I)c(Br)c(I)c1I', 'COc1cccc2c1sc1ncnc(Nc3ccc(Cl)cc3)c12', 'O=[PH](=O)=O', 'Brc1c(I)c(I)c(I)c(I)c1I', 'CN(C(=O)I)c1ccc(I)c(NC=O)c1', 'Nc1ncc2c(n1)-c1cc(Cl)ccc1CS2', 'O=C1C(=O)C(Nc2c(O)c(I)c(I)c(I)c2I)c2ccc(O)cc21', 'O=[PH](=O)=O', 'O=CNN1C(=O)c2c(O)c(Sc3ccc(O)cc3)c3[nH]c4c(O)cccc4c3c2C1=O']
+[4.540868, 5.4790506, 8.645073, 5.812327, 6.69476, 8.566881, 10.479847, 9.416016, 5.812327, 9.060488]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.9957371479722583
+Test ll:  -2.591269409521962
+Train RMSE:  2.0259315166214114
+Train ll:  -2.5547170362886096
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[0.00220168]
+ [0.00248575]
+ [0.00303031]
+ [0.00236094]
+ [0.00291204]
+ [0.00277274]
+ [0.00313735]
+ [0.00199992]
+ [0.00337024]
+ [0.00274717]]
+10 molecules are found
+O=C(C[IH]c1c(I)c(I)c2ccccc2c1I)Nc1cccc(NC2=NN=C3C=CCCC3C2=O)c1 | 2.4458694
+IC(I)=Nc1c(I)c(I)c(I)c(I)c1I | 8.710486
+O=C1NC(=O)C(=S)N1 | 9.931513
+O=C1NC=NC23C=CC(I)=CC12C=C(Sc1ccccc1)C=C3 | 2.5980983
+O=CNc1c(I)cc(Br)cc1I | 4.734159
+O=C1C=CC2(N1)Oc1ccccc1C(=O)C2c1ccccc1 | 7.9474826
+COc1c(I)c(Br)c(I)c(Br)c1I | 5.6735277
+Ic1cc(I)c(I)c(Sc2ccccc2)c1 | 6.498506
+O=c1ccc2ccccc2n1-c1c(Cl)c(I)c(I)c(I)c1I | 8.934081
+O=C1CCc2c(I)c(cc3cc(I)nc(O)c23)Oc2c(I)cc(cc2I)C2(CCNCCc3cc(I)cc(c3)Oc3ccc(cc3)CCN1)NCc1ccccc12 | 6.790452
+['O=C(C[IH]c1c(I)c(I)c2ccccc2c1I)Nc1cccc(NC2=NN=C3C=CCCC3C2=O)c1', 'IC(I)=Nc1c(I)c(I)c(I)c(I)c1I', 'O=C1NC(=O)C(=S)N1', 'O=C1NC=NC23C=CC(I)=CC12C=C(Sc1ccccc1)C=C3', 'O=CNc1c(I)cc(Br)cc1I', 'O=C1C=CC2(N1)Oc1ccccc1C(=O)C2c1ccccc1', 'COc1c(I)c(Br)c(I)c(Br)c1I', 'Ic1cc(I)c(I)c(Sc2ccccc2)c1', 'O=c1ccc2ccccc2n1-c1c(Cl)c(I)c(I)c(I)c1I', 'O=C1CCc2c(I)c(cc3cc(I)nc(O)c23)Oc2c(I)cc(cc2I)C2(CCNCCc3cc(I)cc(c3)Oc3ccc(cc3)CCN1)NCc1ccccc12']
+[2.4458694, 8.710486, 9.931513, 2.5980983, 4.734159, 7.9474826, 5.6735277, 6.498506, 8.934081, 6.790452]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.949600455034512
+Test ll:  -2.5109991570211987
+Train RMSE:  2.0515899246502687
+Train ll:  -2.5755179341238117
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[ 1.85180011e-03]
+ [ 1.83035320e-03]
+ [ 2.44737281e-03]
+ [ 2.02106602e-03]
+ [ 2.67608397e-03]
+ [ 1.81744433e-03]
+ [-2.43837762e+00]
+ [-2.43260484e+00]
+ [-2.43471283e+00]
+ [-2.43518366e+00]]
+10 molecules are found
+IC1=NC(I)c2ccccc2N1c1c(I)c(I)c(I)c(I)c1I | 8.550095
+O=Cn1c(=O)ccc2cc3ccccc3cc21 | 3.1975832
+c1ccc2cnccc2c1 | 9.074231
+O=P(=O)(=O)O | 5.9682827
+O=C1c2ccccc2CN1c1c(O)c(I)c(I)c(I)c1I | 10.064773
+COc1c(I)c(I)c(I)c(I)c1I | 8.936162
+ICOc1c(I)c(I)c(I)c(I)c1I | 9.247794
+ICOc1c(I)c(I)c(I)c(I)c1I | 9.247794
+ICOc1c(I)c(I)c(I)c(I)c1I | 9.247794
+ICOc1c(I)c(I)c(I)c(I)c1I | 9.247794
+['IC1=NC(I)c2ccccc2N1c1c(I)c(I)c(I)c(I)c1I', 'O=Cn1c(=O)ccc2cc3ccccc3cc21', 'c1ccc2cnccc2c1', 'O=P(=O)(=O)O', 'O=C1c2ccccc2CN1c1c(O)c(I)c(I)c(I)c1I', 'COc1c(I)c(I)c(I)c(I)c1I', 'ICOc1c(I)c(I)c(I)c(I)c1I', 'ICOc1c(I)c(I)c(I)c(I)c1I', 'ICOc1c(I)c(I)c(I)c(I)c1I', 'ICOc1c(I)c(I)c(I)c(I)c1I']
+[8.550095, 3.1975832, 9.074231, 5.9682827, 10.064773, 8.936162, 9.247794, 9.247794, 9.247794, 9.247794]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.9602733323975328
+Test ll:  -2.5431276990285343
+Train RMSE:  2.0577486177528215
+Train ll:  -2.587578110121761
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[0.00372802]
+ [0.00502014]
+ [0.00273112]
+ [0.00139553]
+ [0.00434187]
+ [0.0037127 ]
+ [0.00366842]
+ [0.00418954]
+ [0.00363444]
+ [0.00387941]]
+10 molecules are found
+Nc1c(O)c(Sc2ccc(-c3ccco3)o2)c(Br)c(Br)c1Br | 5.6247506
+O=C1CC(O)=C(O)C2=C1CC(O)C(O)=C2 | 9.555339
+O=[PH](=O)=O | 5.812327
+COc1cccc2ncnc(Nc3cccc(Br)c3)c12 | 5.2600303
+Nc1c(I)cc(I)c2c1C(=O)NC2=O | 8.204535
+O=[PH](=O)=O | 5.812327
+COc1cc2cc(N3C(=O)CSC3=O)cnc2cc1OC | 8.244311
+O=C1NC(=O)C2(N1)C(I)=C(I)C(I)=C1C=CN=CC12I | 7.8905387
+O=c1c2c(oc3c1ccc1ccccc13)=CCCC=2 | 7.2143793
+O=CNc1c(I)c(I)c(I)c(I)c1I | 8.276347
+['Nc1c(O)c(Sc2ccc(-c3ccco3)o2)c(Br)c(Br)c1Br', 'O=C1CC(O)=C(O)C2=C1CC(O)C(O)=C2', 'O=[PH](=O)=O', 'COc1cccc2ncnc(Nc3cccc(Br)c3)c12', 'Nc1c(I)cc(I)c2c1C(=O)NC2=O', 'O=[PH](=O)=O', 'COc1cc2cc(N3C(=O)CSC3=O)cnc2cc1OC', 'O=C1NC(=O)C2(N1)C(I)=C(I)C(I)=C1C=CN=CC12I', 'O=c1c2c(oc3c1ccc1ccccc13)=CCCC=2', 'O=CNc1c(I)c(I)c(I)c(I)c1I']
+[5.6247506, 9.555339, 5.812327, 5.2600303, 8.204535, 5.812327, 8.244311, 7.8905387, 7.2143793, 8.276347]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.9550914701237163
+Test ll:  -2.522552637254376
+Train RMSE:  2.0897051019359045
+Train ll:  -2.6130326813307443
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[ 0.0013973 ]
+ [ 0.00101231]
+ [ 0.00139341]
+ [ 0.00154982]
+ [-0.7636595 ]
+ [-0.76365967]
+ [-0.76365967]
+ [-0.75947945]
+ [-0.76363034]
+ [-0.76265251]]
+10 molecules are found
+O=C1CCc2c(I)c(I)c(O)c(c2I)Oc2c(O)c(I)c(c(I)c2I)C2(CCC(O)C(I)C2)C(I)CNCCc2cc(I)cc(c2)Oc2cc(I)c(cc2O)CCN1 | 6.8838425
+C=NN(C#N)c1c(I)c(I)c(I)c(I)c1I | 9.846007
+COc1ccc2c(c1)C1(NN=CN1c1cccnc1)Sc1c(Cl)cccc1-2 | 8.049027
+O=c1c2cccnc2ncn1-c1c(I)c(Br)c2c(c1I)OC(I)C(I)O2 | 6.713007
+O=P(=O)(O)(O)O | 4.8266835
+O=P(=O)(O)(O)O | 4.8266835
+O=P(=O)(O)(O)O | 4.8266835
+O=P(=O)(O)(O)O | 4.8266835
+O=P(=O)(O)(O)O | 4.8266835
+O=P(=O)(O)(O)O | 4.8266835
+['O=C1CCc2c(I)c(I)c(O)c(c2I)Oc2c(O)c(I)c(c(I)c2I)C2(CCC(O)C(I)C2)C(I)CNCCc2cc(I)cc(c2)Oc2cc(I)c(cc2O)CCN1', 'C=NN(C#N)c1c(I)c(I)c(I)c(I)c1I', 'COc1ccc2c(c1)C1(NN=CN1c1cccnc1)Sc1c(Cl)cccc1-2', 'O=c1c2cccnc2ncn1-c1c(I)c(Br)c2c(c1I)OC(I)C(I)O2', 'O=P(=O)(O)(O)O', 'O=P(=O)(O)(O)O', 'O=P(=O)(O)(O)O', 'O=P(=O)(O)(O)O', 'O=P(=O)(O)(O)O', 'O=P(=O)(O)(O)O']
+[6.8838425, 9.846007, 8.049027, 6.713007, 4.8266835, 4.8266835, 4.8266835, 4.8266835, 4.8266835, 4.8266835]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.9973165138017226
+Test ll:  -2.5930096312004376
+Train RMSE:  2.138537302624518
+Train ll:  -2.69362664865556
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[ 2.03668849e-03]
+ [ 2.67819765e-03]
+ [ 2.64746313e-03]
+ [ 2.14223968e-03]
+ [-1.87935211e+01]
+ [-1.59778810e+01]
+ [-1.57773763e+01]
+ [-1.17788916e+01]
+ [-1.00209280e+01]
+ [-6.58484121e+00]]
+10 molecules are found
+O=C1C(=O)C2(CC(I)=C(I)C=C2O)Oc2ccccc21 | 7.318178
+COc1c(I)c(I)c(I)c(I)c1I | 8.936162
+COc1c(O)c(Br)c(Br)c(Br)c1I | 6.2895083
+Nc1c(NC=O)ccc(Br)c1Nc1ccc2c(c1I)C(=O)NC2=O | 9.05586
+C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2s1 | 3.5728436
+C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2s1 | 3.5728436
+C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2s1 | 3.5728436
+C=CC(=O)Nc1sc2ncnc(Nc3ccc(F)c(Cl)c3)c2c1OCc1ccc(-c2ccc(Br)cc2)o1 | 0.9884862
+C=CC(=O)Nc1sc2ncnc(Nc3ccc(F)c(Cl)c3)c2c1OCCCc1ccc(Br)cc1 | 0.85374016
+C=CCOc1cc2ncnc(Nc3cccc(Br)c3)c2cc1CN1CCC1C=CC(=O)O | 2.5978088
+['O=C1C(=O)C2(CC(I)=C(I)C=C2O)Oc2ccccc21', 'COc1c(I)c(I)c(I)c(I)c1I', 'COc1c(O)c(Br)c(Br)c(Br)c1I', 'Nc1c(NC=O)ccc(Br)c1Nc1ccc2c(c1I)C(=O)NC2=O', 'C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2s1', 'C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2s1', 'C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2s1', 'C=CC(=O)Nc1sc2ncnc(Nc3ccc(F)c(Cl)c3)c2c1OCc1ccc(-c2ccc(Br)cc2)o1', 'C=CC(=O)Nc1sc2ncnc(Nc3ccc(F)c(Cl)c3)c2c1OCCCc1ccc(Br)cc1', 'C=CCOc1cc2ncnc(Nc3cccc(Br)c3)c2cc1CN1CCC1C=CC(=O)O']
+[7.318178, 8.936162, 6.2895083, 9.05586, 3.5728436, 3.5728436, 3.5728436, 0.9884862, 0.85374016, 2.5978088]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  2.0282221270916247
+Test ll:  -2.6304666008211823
+Train RMSE:  2.1912750205000773
+Train ll:  -2.759715436109939
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[0.00196534]
+ [0.00212605]
+ [0.00209764]
+ [0.00202394]
+ [0.00189777]
+ [0.00205023]
+ [0.00240653]
+ [0.00237608]
+ [0.00223241]
+ [0.00359412]]
+10 molecules are found
+Cn1cnc2cc3ccccc3c(N)c2c1=O | 7.6659894
+O=C1NC(=O)C2(C=c3c(ccc4ccccc34)=CC2)S1 | 8.796632
+O=CN=C=Nc1ccccc1 | 10.512196
+O=CC1=CC2=C(CCC=C2)CC1 | 11.567503
+O=C1N=C2N(C(=O)C1(I)I)C(S)=NC13C=CC=CC21C=CC=C3 | 4.9608707
+Nc1cc(Br)ccc1Nc1nncc2ccccc12 | 4.5960836
+O=C1N=C(O)NC(=O)C1=O | 7.5307536
+O=C=O | 4.6865907
+O=C1NC(=O)C23C=C(Sc4ccccc4)C(I)=CC12C(I)=C(I)C1(I)C=CN=CC13 | 3.7786608
+O=C1CC=C(Oc2ccccc2)C=C1O | 8.85899
+['Cn1cnc2cc3ccccc3c(N)c2c1=O', 'O=C1NC(=O)C2(C=c3c(ccc4ccccc34)=CC2)S1', 'O=CN=C=Nc1ccccc1', 'O=CC1=CC2=C(CCC=C2)CC1', 'O=C1N=C2N(C(=O)C1(I)I)C(S)=NC13C=CC=CC21C=CC=C3', 'Nc1cc(Br)ccc1Nc1nncc2ccccc12', 'O=C1N=C(O)NC(=O)C1=O', 'O=C=O', 'O=C1NC(=O)C23C=C(Sc4ccccc4)C(I)=CC12C(I)=C(I)C1(I)C=CN=CC13', 'O=C1CC=C(Oc2ccccc2)C=C1O']
+[7.6659894, 8.796632, 10.512196, 11.567503, 4.9608707, 4.5960836, 7.5307536, 4.6865907, 3.7786608, 8.85899]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.9574418974998673
+Test ll:  -2.5233300621170454
+Train RMSE:  2.158176678402054
+Train ll:  -2.691576413622436
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[0.00212428]
+ [0.0016857 ]
+ [0.00190587]
+ [0.00185348]
+ [0.00206465]
+ [0.00175168]
+ [0.00176059]
+ [0.00187543]
+ [0.00231377]
+ [0.00260506]]
+10 molecules are found
+Nc1c(NC=O)c(Nc2cccc(I)c2)cc2c1C(=O)NC2=O | 8.509117
+O=C1N(c2c(I)cc(I)c(I)c2I)CC2(I)C=CN=CN12 | 6.578959
+O=CNc1ccc2ccccc2c1 | 7.7938795
+COc1cccc2c1sc1c(Nc3cccc(I)c3)ncnc12 | 3.1915317
+Nc1cc2c(c(O)c1O)C(=O)c1c(O)cc(O)cc1C2=O | 7.6368356
+COc1c(I)c(I)c(I)c(I)c1I | 8.936162
+O=[PH](=O)=O | 5.812327
+Nc1cccc2c1NCN2 | 7.861533
+O=[N+]([O-])[O-] | 6.3526874
+O=[PH](=O)=O | 5.812327
+['Nc1c(NC=O)c(Nc2cccc(I)c2)cc2c1C(=O)NC2=O', 'O=C1N(c2c(I)cc(I)c(I)c2I)CC2(I)C=CN=CN12', 'O=CNc1ccc2ccccc2c1', 'COc1cccc2c1sc1c(Nc3cccc(I)c3)ncnc12', 'Nc1cc2c(c(O)c1O)C(=O)c1c(O)cc(O)cc1C2=O', 'COc1c(I)c(I)c(I)c(I)c1I', 'O=[PH](=O)=O', 'Nc1cccc2c1NCN2', 'O=[N+]([O-])[O-]', 'O=[PH](=O)=O']
+[8.509117, 6.578959, 7.7938795, 3.1915317, 7.6368356, 8.936162, 5.812327, 7.861533, 6.3526874, 5.812327]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.9759951492949313
+Test ll:  -2.5603931521718635
+Train RMSE:  2.1375393493643324
+Train ll:  -2.6716562979536596
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[0.00466201]
+ [0.00472331]
+ [0.00388459]
+ [0.00468379]
+ [0.00395198]
+ [0.00468994]
+ [0.00456463]
+ [0.00472758]
+ [0.00518926]
+ [0.00391023]]
+10 molecules are found
+O=C=O | 4.6865907
+Nc1ccc(Nc2c(N)c(O)c3c(c2Br)C(=O)NC3=O)cc1 | 8.152292
+NC1=COC(=O)C2(Cc3cc4ccccc4cc3OC2=O)C1=O | 2.4948683
+COc1c(O)c(Br)c(Br)c(Br)c1O | 6.741183
+NC(=O)C(=O)Nc1cc(N)c2c(c1)C(=O)C(c1ccccc1)C(=O)O2 | 8.421287
+Nc1cc2c(cn1)-c1cc(O)ccc1C2 | 10.351887
+O=C=O | 4.6865907
+Nc1c(O)c2c(c(O)c1Br)C(=O)c1c(O)ccc(O)c1C2=O | 6.6418257
+O=CNc1cc(Br)c(O)c(I)c1O | 4.952069
+O=CNc1ccccc1 | 9.213284
+['O=C=O', 'Nc1ccc(Nc2c(N)c(O)c3c(c2Br)C(=O)NC3=O)cc1', 'NC1=COC(=O)C2(Cc3cc4ccccc4cc3OC2=O)C1=O', 'COc1c(O)c(Br)c(Br)c(Br)c1O', 'NC(=O)C(=O)Nc1cc(N)c2c(c1)C(=O)C(c1ccccc1)C(=O)O2', 'Nc1cc2c(cn1)-c1cc(O)ccc1C2', 'O=C=O', 'Nc1c(O)c2c(c(O)c1Br)C(=O)c1c(O)ccc(O)c1C2=O', 'O=CNc1cc(Br)c(O)c(I)c1O', 'O=CNc1ccccc1']
+[4.6865907, 8.152292, 2.4948683, 6.741183, 8.421287, 10.351887, 4.6865907, 6.6418257, 4.952069, 9.213284]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.9453429942875644
+Test ll:  -2.510647873338932
+Train RMSE:  2.188026209797737
+Train ll:  -2.7171360415850816
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[0.00189414]
+ [0.0020547 ]
+ [0.00262009]
+ [0.00258176]
+ [0.00259632]
+ [0.0029199 ]
+ [0.00183726]
+ [0.00385863]
+ [0.00192198]
+ [0.00234469]]
+10 molecules are found
+O=P(=O)(=O)O | 5.9682827
+O=C1c2ccccc2OC2(I)C=CC=CC12 | 10.291632
+O=[PH]=O | 5.635686
+C=O | 6.7804546
+COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)CCc1ccccc1-3 | 10.144775
+O=C1Oc2ccccc2C(=O)C12CCOc1ccccc12 | 8.847021
+O=C1NC(=O)C23C=CC=CC12C=CC=C3 | 5.17152
+O=C1CCc2c(O)c(c(Br)c(O)c2Br)Oc2c(O)c(Br)c(c(Br)c2O)C(=O)C(=O)C(Br)NC(O)Cc2cc(c(O)cc2Br)Oc2ccc(cc2)CC(=O)N1 | 4.1595144
+c1cc2cc(Sc3ccc4sccc4c3)ccc2s1 | 11.559957
+O=C1NC(=O)C2(I)CNCN12 | 8.892182
+['O=P(=O)(=O)O', 'O=C1c2ccccc2OC2(I)C=CC=CC12', 'O=[PH]=O', 'C=O', 'COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)CCc1ccccc1-3', 'O=C1Oc2ccccc2C(=O)C12CCOc1ccccc12', 'O=C1NC(=O)C23C=CC=CC12C=CC=C3', 'O=C1CCc2c(O)c(c(Br)c(O)c2Br)Oc2c(O)c(Br)c(c(Br)c2O)C(=O)C(=O)C(Br)NC(O)Cc2cc(c(O)cc2Br)Oc2ccc(cc2)CC(=O)N1', 'c1cc2cc(Sc3ccc4sccc4c3)ccc2s1', 'O=C1NC(=O)C2(I)CNCN12']
+[5.9682827, 10.291632, 5.635686, 6.7804546, 10.144775, 8.847021, 5.17152, 4.1595144, 11.559957, 8.892182]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  2.009457507919992
+Test ll:  -2.5981998641039556
+Train RMSE:  2.1982611409624075
+Train ll:  -2.7391773084818642
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[0.00208349]
+ [0.0021135 ]
+ [0.00262242]
+ [0.00287595]
+ [0.00247766]
+ [0.00292947]
+ [0.00266056]
+ [0.00315543]
+ [0.00236086]
+ [0.0024133 ]]
+10 molecules are found
+O=c1c2cnc3cc(O)ccc3c2nc2cc(O)c(Cl)cn12 | 8.485576
+CN1CC(=O)c2cc3c(c(Nc4c(O)cc(Br)cc4Br)c21)C(=O)NC3=O | 9.05083
+O=C1CCc2cc(cc3ccoc23)Oc2cc(I)c(cc2I)C2(CCNCCc3cc(ccc3I)Oc3ccc(cc3)CCN1)NC(=O)c1ccccc12 | 7.4335847
+COC=O | 7.5148826
+Oc1cc2ccccc2cc1Oc1c(I)c(Br)c(Br)c(I)c1I | 6.30589
+O=C1Cc2ccccc2-c2nc3c(Br)c4ncccc4cc3cc21 | 9.049428
+CNc1c(O)c(Br)c(Br)c(Br)c1I | 5.2461066
+Nc1c2c(c(Nc3ccccc3)c3c1C(=O)NC3=O)NC(=O)CN2 | 9.198623
+O=CNc1c(O)c(I)c(I)c(I)c1I | 7.5205827
+O=C1CCc2cc(cc(Br)c2O)Oc2ccc(cc2)CCCNC(=O)C2(CS(=O)(=O)CN2)c2cccc(c2)Oc2ccc(c(Br)c2)-c2ccccc2N1 | 2.846964
+['O=c1c2cnc3cc(O)ccc3c2nc2cc(O)c(Cl)cn12', 'CN1CC(=O)c2cc3c(c(Nc4c(O)cc(Br)cc4Br)c21)C(=O)NC3=O', 'O=C1CCc2cc(cc3ccoc23)Oc2cc(I)c(cc2I)C2(CCNCCc3cc(ccc3I)Oc3ccc(cc3)CCN1)NC(=O)c1ccccc12', 'COC=O', 'Oc1cc2ccccc2cc1Oc1c(I)c(Br)c(Br)c(I)c1I', 'O=C1Cc2ccccc2-c2nc3c(Br)c4ncccc4cc3cc21', 'CNc1c(O)c(Br)c(Br)c(Br)c1I', 'Nc1c2c(c(Nc3ccccc3)c3c1C(=O)NC3=O)NC(=O)CN2', 'O=CNc1c(O)c(I)c(I)c(I)c1I', 'O=C1CCc2cc(cc(Br)c2O)Oc2ccc(cc2)CCCNC(=O)C2(CS(=O)(=O)CN2)c2cccc(c2)Oc2ccc(c(Br)c2)-c2ccccc2N1']
+[8.485576, 9.05083, 7.4335847, 7.5148826, 6.30589, 9.049428, 5.2461066, 9.198623, 7.5205827, 2.846964]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.9708820953081814
+Test ll:  -2.552800421169348
+Train RMSE:  2.218615477564317
+Train ll:  -2.7527726852745897
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[-4.11734003]
+ [-3.96551854]
+ [-3.94747521]
+ [-3.93946115]
+ [-3.94368292]
+ [-3.94266925]
+ [-3.94271562]
+ [-3.94315091]
+ [-3.94305071]
+ [-3.94284979]]
+10 molecules are found
+O=Cn1c(=O)[nH]c2cc(Br)c(Nc3ccccc3)cc21 | 4.3280873
+O=C1NC(=O)N(c2ccccc2)C1=O | 10.495086
+O=Cn1c(=O)[nH]c2cc(Br)c(Nc3ccccc3)cc21 | 4.3280873
+O=C1NC(=O)N(c2ccccc2)C1=O | 10.495086
+O=Cn1c(=O)[nH]c2cc(Br)c(Nc3ccccc3)cc21 | 4.3280873
+O=C1NC(=O)N(c2ccccc2)C1=O | 10.495086
+O=Cn1c(=O)[nH]c2cc(Br)c(Nc3ccccc3)cc21 | 4.3280873
+O=C1C(=O)N2c3ccccc3NC23C2=C(C=CN13)CCC=C2 | 11.200458
+O=C1NC(=O)N(c2ccccc2)C1=O | 10.495086
+Nc1c(Nc2ccccc2)c(Br)cc2[nH]c(=O)n(C=O)c12 | 6.6491375
+['O=Cn1c(=O)[nH]c2cc(Br)c(Nc3ccccc3)cc21', 'O=C1NC(=O)N(c2ccccc2)C1=O', 'O=Cn1c(=O)[nH]c2cc(Br)c(Nc3ccccc3)cc21', 'O=C1NC(=O)N(c2ccccc2)C1=O', 'O=Cn1c(=O)[nH]c2cc(Br)c(Nc3ccccc3)cc21', 'O=C1NC(=O)N(c2ccccc2)C1=O', 'O=Cn1c(=O)[nH]c2cc(Br)c(Nc3ccccc3)cc21', 'O=C1C(=O)N2c3ccccc3NC23C2=C(C=CN13)CCC=C2', 'O=C1NC(=O)N(c2ccccc2)C1=O', 'Nc1c(Nc2ccccc2)c(Br)cc2[nH]c(=O)n(C=O)c12']
+[4.3280873, 10.495086, 4.3280873, 10.495086, 4.3280873, 10.495086, 4.3280873, 11.200458, 10.495086, 6.6491375]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.9514060341086938
+Test ll:  -2.5265734665634363
+Train RMSE:  2.1809555431864807
+Train ll:  -2.6949798260723217
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[0.00303305]
+ [0.00341164]
+ [0.00366294]
+ [0.00283947]
+ [0.00369425]
+ [0.00253088]
+ [0.00396287]
+ [0.00249424]
+ [0.00312771]
+ [0.00264151]]
+10 molecules are found
+O=C1NC(=O)C(=NN2C=NC3(C=CC=CC3)c3ccccc32)S1 | 3.9824262
+O=C1NC(=O)C2(C=CC=CC2)N1 | 5.656729
+O=CNNNc1c(O)c(O)c(Br)c(Br)c1Br | 6.621215
+CN(C(=O)I)c1cc(I)c(NC(=O)I)c(I)c1 | 8.332399
+Ic1c(I)c(I)c(I)c(I)c1I | 8.276344
+O=c1c2c(c3ccccc3n1-c1cc(Br)c3c(c1)SCc1ccccc1-3)CCSC2 | 9.404386
+O=C=O | 4.6865907
+O=C1CNC23C=CC=CC2(N=C2C(=O)Nc4ccccc4N2C3=O)N1 | 3.5432057
+Oc1cc(Oc2c(I)c(I)c(I)c(I)c2I)cc2ncccc12 | 9.065055
+O=CNS(=O)(=O)Nc1ccccc1 | 10.449345
+['O=C1NC(=O)C(=NN2C=NC3(C=CC=CC3)c3ccccc32)S1', 'O=C1NC(=O)C2(C=CC=CC2)N1', 'O=CNNNc1c(O)c(O)c(Br)c(Br)c1Br', 'CN(C(=O)I)c1cc(I)c(NC(=O)I)c(I)c1', 'Ic1c(I)c(I)c(I)c(I)c1I', 'O=c1c2c(c3ccccc3n1-c1cc(Br)c3c(c1)SCc1ccccc1-3)CCSC2', 'O=C=O', 'O=C1CNC23C=CC=CC2(N=C2C(=O)Nc4ccccc4N2C3=O)N1', 'Oc1cc(Oc2c(I)c(I)c(I)c(I)c2I)cc2ncccc12', 'O=CNS(=O)(=O)Nc1ccccc1']
+[3.9824262, 5.656729, 6.621215, 8.332399, 8.276344, 9.404386, 4.6865907, 3.5432057, 9.065055, 10.449345]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  2.0301355327044335
+Test ll:  -2.6416628666763695
+Train RMSE:  2.3129350103875144
+Train ll:  -2.9022816122805177
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[0.00281657]
+ [0.00375259]
+ [0.00246985]
+ [0.00237256]
+ [0.00229347]
+ [0.00433822]
+ [0.00296673]
+ [0.00334848]
+ [0.00341663]
+ [0.00252395]]
+10 molecules are found
+Ic1ccc(Sc2cc(I)c(I)cc2I)cc1 | 5.9844127
+O=C1C=C2OCCN(S(=O)(=O)N3Cc4ccccc4C3=O)CCOC2=C2C=CC(Sc3ccccc3)=CC12 | 9.387581
+O=C1CCc2cccc(c2)Oc2ccc(cc2)C2(CCNCCc3cc(c(Br)cc3Br)Oc3ccc(cc3)-c3ccccc3N1)COCCO2 | 4.255435
+O=c1oc2ccc3ccccc3c2c2c1=CCCC=2 | 6.00785
+O=c1c2ccccc2nc2n1-c1ccccc1NC2 | 11.123716
+N#Cc1cc(Sc2ccc3ccccc3c2)ccc1S(=O)(=O)N1CCOc2cc3ccccc3cc2OCC1 | 7.9070773
+C[IH]C[IH]CI | 5.2726088
+O=C1Oc2ccc(Br)c(O)c2C(=S)C1c1ccccc1 | 9.403274
+O=C1CCc2cccc(c2)Oc2ccc(cc2)C2(CCNCCc3cc4c(c(c3)Oc3ccc(cc3)C=C(Br)N1)OCCO4)COCCO2 | 10.218263
+N#Cc1ccc(-c2ccc3ccccc3c2)o1 | 8.84455
+['Ic1ccc(Sc2cc(I)c(I)cc2I)cc1', 'O=C1C=C2OCCN(S(=O)(=O)N3Cc4ccccc4C3=O)CCOC2=C2C=CC(Sc3ccccc3)=CC12', 'O=C1CCc2cccc(c2)Oc2ccc(cc2)C2(CCNCCc3cc(c(Br)cc3Br)Oc3ccc(cc3)-c3ccccc3N1)COCCO2', 'O=c1oc2ccc3ccccc3c2c2c1=CCCC=2', 'O=c1c2ccccc2nc2n1-c1ccccc1NC2', 'N#Cc1cc(Sc2ccc3ccccc3c2)ccc1S(=O)(=O)N1CCOc2cc3ccccc3cc2OCC1', 'C[IH]C[IH]CI', 'O=C1Oc2ccc(Br)c(O)c2C(=S)C1c1ccccc1', 'O=C1CCc2cccc(c2)Oc2ccc(cc2)C2(CCNCCc3cc4c(c(c3)Oc3ccc(cc3)C=C(Br)N1)OCCO4)COCCO2', 'N#Cc1ccc(-c2ccc3ccccc3c2)o1']
+[5.9844127, 9.387581, 4.255435, 6.00785, 11.123716, 7.9070773, 5.2726088, 9.403274, 10.218263, 8.84455]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.9504184292354867
+Test ll:  -2.519619183204465
+Train RMSE:  2.2569846771743522
+Train ll:  -2.793750551472484
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[0.0048627 ]
+ [0.00525682]
+ [0.00473942]
+ [0.0053766 ]
+ [0.00469638]
+ [0.00464761]
+ [0.00460514]
+ [0.00589317]
+ [0.00587328]
+ [0.00546598]]
+10 molecules are found
+N#CN1C(=O)c2cc(Nc3ccccc3)c(N3CCC=CC3=O)cc2C1=O | 7.5074563
+Nc1c(I)c(I)c(I)c(I)c1I | 8.190701
+Ic1cc(I)cc(Nc2c(I)cc(Nc3ncnc4c3=CCCC=4)cc2I)c1 | 1.081042
+CNc1cccc(N(C)c2nc3c(cc2N)C(=O)CC3=O)c1 | 7.599597
+O=c1ccc2cccnc2n1-c1c(I)nc(I)c(I)c1I | 8.227552
+O=C=O | 4.6865907
+Oc1c(I)c(I)c(I)c(I)c1I | 7.875985
+Cc1cc(Br)c(O)c2c3c(Br)cc(c12)C(=O)CCNCCc1cccc(c1)Oc1ccc(cc1)CC(=O)NC(=O)CC(=O)c1cc(c(O)c2c(O)cc(O)cc12)O3 | 6.617911
+O=CNc1c(I)cc(I)cc1I | 4.622159
+O=Cn1c(=O)[nH]c2c(-c3c(O)cc4ccccc4c3O)oc(Sc3ccccc3)c21 | 4.3217106
+['N#CN1C(=O)c2cc(Nc3ccccc3)c(N3CCC=CC3=O)cc2C1=O', 'Nc1c(I)c(I)c(I)c(I)c1I', 'Ic1cc(I)cc(Nc2c(I)cc(Nc3ncnc4c3=CCCC=4)cc2I)c1', 'CNc1cccc(N(C)c2nc3c(cc2N)C(=O)CC3=O)c1', 'O=c1ccc2cccnc2n1-c1c(I)nc(I)c(I)c1I', 'O=C=O', 'Oc1c(I)c(I)c(I)c(I)c1I', 'Cc1cc(Br)c(O)c2c3c(Br)cc(c12)C(=O)CCNCCc1cccc(c1)Oc1ccc(cc1)CC(=O)NC(=O)CC(=O)c1cc(c(O)c2c(O)cc(O)cc12)O3', 'O=CNc1c(I)cc(I)cc1I', 'O=Cn1c(=O)[nH]c2c(-c3c(O)cc4ccccc4c3O)oc(Sc3ccccc3)c21']
+[7.5074563, 8.190701, 1.081042, 7.599597, 8.227552, 4.6865907, 7.875985, 6.617911, 4.622159, 4.3217106]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.974565623077049
+Test ll:  -2.5522321096539358
+Train RMSE:  2.2591848297732398
+Train ll:  -2.7918431013130944
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[0.00229962]
+ [0.00267973]
+ [0.00216576]
+ [0.00236319]
+ [0.00305383]
+ [0.00293147]
+ [0.00220332]
+ [0.00163471]
+ [0.00396064]
+ [0.00205773]]
+10 molecules are found
+Nc1ccc2c(c1)CNC2 | 8.576041
+O=C1CC(I)=C(O)c2c1nc1c(I)cccc1c2Nc1cccc(I)c1 | 4.881724
+CO | 7.372654
+Nc1c(I)c(I)c(I)c2ncncc12 | 5.081525
+O=C1NC(=O)c2c1c(Br)c(Br)c1ccccc21 | 9.966983
+O=C1C(=O)S2(C(=O)Nc3ccccc32)C(=O)N1c1ccccc1 | 9.503849
+O=[N+]([O-])[O-] | 6.3526874
+O=C1N2C(=NC(=S)C13C=c1ccccc1=CC3)CNc1ccccc12 | 7.666618
+O=c1[nH]c(Sc2ccccc2)nc2ccc(I)cc12 | 9.394978
+Oc1c(I)c(Br)c(Br)c(Br)c1I | 5.8374753
+['Nc1ccc2c(c1)CNC2', 'O=C1CC(I)=C(O)c2c1nc1c(I)cccc1c2Nc1cccc(I)c1', 'CO', 'Nc1c(I)c(I)c(I)c2ncncc12', 'O=C1NC(=O)c2c1c(Br)c(Br)c1ccccc21', 'O=C1C(=O)S2(C(=O)Nc3ccccc32)C(=O)N1c1ccccc1', 'O=[N+]([O-])[O-]', 'O=C1N2C(=NC(=S)C13C=c1ccccc1=CC3)CNc1ccccc12', 'O=c1[nH]c(Sc2ccccc2)nc2ccc(I)cc12', 'Oc1c(I)c(Br)c(Br)c(Br)c1I']
+[8.576041, 4.881724, 7.372654, 5.081525, 9.966983, 9.503849, 6.3526874, 7.666618, 9.394978, 5.8374753]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.9521286123533406
+Test ll:  -2.5255143812626577
+Train RMSE:  2.310113614884917
+Train ll:  -2.8479319133504513
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[ 1.43187949e-03]
+ [ 1.04409622e-03]
+ [ 1.54248350e-03]
+ [-3.19453588e+00]
+ [-3.18305938e+00]
+ [-3.15181433e+00]
+ [-3.18315580e+00]
+ [-3.12761867e+00]
+ [-3.06162385e+00]
+ [-2.89059764e+00]]
+10 molecules are found
+O=C1NC(=S)C2C(O)=CC(Br)=CN12 | 10.342695
+O=C1NC(=O)C(=O)N1 | 9.211745
+O=[PH](=O)=O | 5.812327
+O=C1NC=NC23C=CC(I)=CC12C=C(Sc1ccccc1)C=C3 | 2.5980983
+O=C1NC=NC23C=CC(I)=CC12C=C(Sc1ccccc1)C=C3 | 2.5980983
+O=C1N2NC(=S)NC2=NC2C=CC(I)=CC12Sc1ccccc1 | 8.952575
+O=C1NC=NC23C=CC(I)=CC12C=C(Sc1ccccc1)C=C3 | 2.5980983
+O=C1N2NC(=S)NC2=NC2C=CC(I)=CC12Sc1ccccc1 | 8.952575
+O=C1N2NC(=S)NC2=NC2C=CC(I)=CC12Sc1ccccc1 | 8.952575
+O=C1N2NC(=S)NC2=NC2C=CC(I)=CC12Sc1ccccc1 | 8.952575
+['O=C1NC(=S)C2C(O)=CC(Br)=CN12', 'O=C1NC(=O)C(=O)N1', 'O=[PH](=O)=O', 'O=C1NC=NC23C=CC(I)=CC12C=C(Sc1ccccc1)C=C3', 'O=C1NC=NC23C=CC(I)=CC12C=C(Sc1ccccc1)C=C3', 'O=C1N2NC(=S)NC2=NC2C=CC(I)=CC12Sc1ccccc1', 'O=C1NC=NC23C=CC(I)=CC12C=C(Sc1ccccc1)C=C3', 'O=C1N2NC(=S)NC2=NC2C=CC(I)=CC12Sc1ccccc1', 'O=C1N2NC(=S)NC2=NC2C=CC(I)=CC12Sc1ccccc1', 'O=C1N2NC(=S)NC2=NC2C=CC(I)=CC12Sc1ccccc1']
+[10.342695, 9.211745, 5.812327, 2.5980983, 2.5980983, 8.952575, 2.5980983, 8.952575, 8.952575, 8.952575]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  2.0069927154535274
+Test ll:  -2.595952386455834
+Train RMSE:  2.3171869738562636
+Train ll:  -2.8725157300479087
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[0.00383353]
+ [0.00417071]
+ [0.00482264]
+ [0.0046024 ]
+ [0.00426581]
+ [0.00379915]
+ [0.00428081]
+ [0.00426366]
+ [0.00434298]
+ [0.00525073]]
+10 molecules are found
+Nc1c(I)c(I)c(I)c(I)c1I | 8.190701
+NC1(N2C(=O)C(=O)N(C=O)C2=O)CC=COC1 | 4.9966574
+O=C1CCc2cccc(c2)Oc2ccc(c3occc23)CC(Sc2ccccc2)C(=O)NCCc2cccc(c2)Oc2ccc(cc2)CCN1 | 6.1311774
+COc1c(I)c(Br)c(I)c(Br)c1I | 5.6735277
+Nc1c(I)c(I)c(I)c(I)c1I | 8.190701
+COc1c(Br)c(Br)c2c(c1Br)C(=O)C13OC=CC1(CCc1ccccc13)C2=O | 5.725681
+Ic1c(I)c(I)c(I)c(I)c1I | 8.276344
+O=CNc1c(Nc2ccc(O)cc2)cc2c(c1O)C(=O)NC2=O | 9.8022375
+O=C1C(=O)N2c3ccccc3NC23Nc2ccccc2N13 | 9.835124
+O=C=O | 4.6865907
+['Nc1c(I)c(I)c(I)c(I)c1I', 'NC1(N2C(=O)C(=O)N(C=O)C2=O)CC=COC1', 'O=C1CCc2cccc(c2)Oc2ccc(c3occc23)CC(Sc2ccccc2)C(=O)NCCc2cccc(c2)Oc2ccc(cc2)CCN1', 'COc1c(I)c(Br)c(I)c(Br)c1I', 'Nc1c(I)c(I)c(I)c(I)c1I', 'COc1c(Br)c(Br)c2c(c1Br)C(=O)C13OC=CC1(CCc1ccccc13)C2=O', 'Ic1c(I)c(I)c(I)c(I)c1I', 'O=CNc1c(Nc2ccc(O)cc2)cc2c(c1O)C(=O)NC2=O', 'O=C1C(=O)N2c3ccccc3NC23Nc2ccccc2N13', 'O=C=O']
+[8.190701, 4.9966574, 6.1311774, 5.6735277, 8.190701, 5.725681, 8.276344, 9.8022375, 9.835124, 4.6865907]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.9465384855912404
+Test ll:  -2.5127557798398215
+Train RMSE:  2.3308194171005927
+Train ll:  -2.8660915480035345
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[0.00282401]
+ [0.00238466]
+ [0.00273572]
+ [0.00252163]
+ [0.00274412]
+ [0.00246679]
+ [0.00233559]
+ [0.00225472]
+ [0.00372433]
+ [0.00383452]]
+10 molecules are found
+O=C1CCc2cc(cc(Sc3ccccc3)c2)Oc2ccc(cc2)CCCNCCc2cccc(c2)Oc2ccc(cc2)-c2cc3nccc(Nc4cccc(Br)c4)c3c(O)c2N1 | 3.5560517
+Nc1cc(F)c2c(N)cc3ccccc3c2c1 | 10.438019
+Nc1cc2c(cc1Nc1c(I)cc(Br)cc1I)C(=O)NC2 | 7.6461105
+O=C1NC(=O)C2(N1)c1ccoc1-c1ccccc1C2O | 10.454755
+O=[PH](=O)=O | 5.812327
+O=C1NC(=S)C(=S)N1c1ccoc1 | 9.612107
+O=CN1C(=O)C2C=C(Nc3cccc(I)c3)C3=C(C(O)=C(O)CC3)N2C1=O | 10.35888
+O=C1CCc2cc(c3ccccc3c2)Oc2ccc(cc2)CCCNCCc2cccc(c2)Oc2ccc(cc2)-c2ccccc2N1 | 4.321599
+O=C1CCc2cccc(c2)Oc2ccc(cc2)CCCNCCc2cccc(c2)Oc2ccc(cc2)-c2ccccc2N1 | 5.244308
+O=C1NC(O)=CN2C(=O)C3(C=c4ccccc4=CC3)C(=O)N=C12 | 8.802518
+['O=C1CCc2cc(cc(Sc3ccccc3)c2)Oc2ccc(cc2)CCCNCCc2cccc(c2)Oc2ccc(cc2)-c2cc3nccc(Nc4cccc(Br)c4)c3c(O)c2N1', 'Nc1cc(F)c2c(N)cc3ccccc3c2c1', 'Nc1cc2c(cc1Nc1c(I)cc(Br)cc1I)C(=O)NC2', 'O=C1NC(=O)C2(N1)c1ccoc1-c1ccccc1C2O', 'O=[PH](=O)=O', 'O=C1NC(=S)C(=S)N1c1ccoc1', 'O=CN1C(=O)C2C=C(Nc3cccc(I)c3)C3=C(C(O)=C(O)CC3)N2C1=O', 'O=C1CCc2cc(c3ccccc3c2)Oc2ccc(cc2)CCCNCCc2cccc(c2)Oc2ccc(cc2)-c2ccccc2N1', 'O=C1CCc2cccc(c2)Oc2ccc(cc2)CCCNCCc2cccc(c2)Oc2ccc(cc2)-c2ccccc2N1', 'O=C1NC(O)=CN2C(=O)C3(C=c4ccccc4=CC3)C(=O)N=C12']
+[3.5560517, 10.438019, 7.6461105, 10.454755, 5.812327, 9.612107, 10.35888, 4.321599, 5.244308, 8.802518]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  1.968043804912792
+Test ll:  -2.5372412300497973
+Train RMSE:  2.323943971696522
+Train ll:  -2.855871189033745
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[0.00524327]
+ [0.0042604 ]
+ [0.00430518]
+ [0.00505737]
+ [0.00516108]
+ [0.00637929]
+ [0.00477476]
+ [0.00445403]
+ [0.00439008]
+ [0.0055414 ]]
+10 molecules are found
+Ic1cc2cc(Oc3c(I)c(I)c4c(I)nc(I)cc4c3I)c(I)c(I)c2cn1 | 9.566752
+O=C1Oc2cc3c(c(O)c2C(=O)C1O)c(=O)oc1cc(O)cc(O)c13 | 8.722842
+ICOc1c(I)c(I)c(I)c(I)c1I | 9.247794
+O=[PH](=O)=O | 5.812327
+Brc1c(I)c(I)c(I)c(N=C(I)I)c1I | 6.035984
+COc1c(O)c(Br)c(Br)c(Br)c1Br | 6.7136035
+O=CNc1c(I)c(I)c(I)c(I)c1I | 8.276347
+O=CNc1cc(Br)cc(SC=O)c1 | 8.226379
+Clc1cccc(Nc2ncnc3c2sc2ccccc23)c1 | 5.393443
+O=P(=O)(O)(O)O | 4.8266835
+['Ic1cc2cc(Oc3c(I)c(I)c4c(I)nc(I)cc4c3I)c(I)c(I)c2cn1', 'O=C1Oc2cc3c(c(O)c2C(=O)C1O)c(=O)oc1cc(O)cc(O)c13', 'ICOc1c(I)c(I)c(I)c(I)c1I', 'O=[PH](=O)=O', 'Brc1c(I)c(I)c(I)c(N=C(I)I)c1I', 'COc1c(O)c(Br)c(Br)c(Br)c1Br', 'O=CNc1c(I)c(I)c(I)c(I)c1I', 'O=CNc1cc(Br)cc(SC=O)c1', 'Clc1cccc(Nc2ncnc3c2sc2ccccc23)c1', 'O=P(=O)(O)(O)O']
+[9.566752, 8.722842, 9.247794, 5.812327, 6.035984, 6.7136035, 8.276347, 8.226379, 5.393443, 4.8266835]
+Initializing network
+Compiling adam updates
+Training
+Test RMSE:  2.011777819844713
+Test ll:  -2.6127188636635394
+Train RMSE:  2.359102342259013
+Train ll:  -2.9291581260457913
+(10000, 900)
+(1, 900)
+Predictive mean at selected points:
+ [[0.00310463]
+ [0.00288003]
+ [0.0033935 ]
+ [0.00411016]
+ [0.00378073]
+ [0.00425387]
+ [0.0030957 ]
+ [0.00352914]
+ [0.00315166]
+ [0.00428342]]
+10 molecules are found
+O=[PH](=O)=O | 5.812327
+N#Cc1c(I)c(I)c(I)c2ccoc12 | 8.22088
+Clc1c(I)cc(Cl)c2occc12 | 8.408403
+Oc1c(Br)c(Br)c(O)c(Br)c1Br | 5.7269645
+Nc1ccc2c(c1)NCN2 | 8.081575
+C=[SH]c1nnc(Sc2ccc(Cl)cc2)o1 | 9.955654
+Oc1c(I)c(I)c(I)c(I)c1I | 7.875985
+CNc1nc2c(c(N)c1O)C(=O)C1(CCc3ccccc31)C2=O | 7.5333543
+Nc1c(I)c(I)c(I)c(I)c1I | 8.190701
+N#CNC#N | 8.971127
+['O=[PH](=O)=O', 'N#Cc1c(I)c(I)c(I)c2ccoc12', 'Clc1c(I)cc(Cl)c2occc12', 'Oc1c(Br)c(Br)c(O)c(Br)c1Br', 'Nc1ccc2c(c1)NCN2', 'C=[SH]c1nnc(Sc2ccc(Cl)cc2)o1', 'Oc1c(I)c(I)c(I)c(I)c1I', 'CNc1nc2c(c(N)c1O)C(=O)C1(CCc3ccccc31)C2=O', 'Nc1c(I)c(I)c(I)c(I)c1I', 'N#CNC#N']
+[5.812327, 8.22088, 8.408403, 5.7269645, 8.081575, 9.955654, 7.875985, 7.5333543, 8.190701, 8.971127]
