@@ -5,6 +5,8 @@ This project uses 3 generative models: RXN Generator, JT-VAE and ChemTS, and 1 p
 
 ![title](images/ic50_density.png)
 
+An example of RXN Generator generated molecule candidate with synthetic pathway planned during generation:
+
 ![title](images/rxn_route1.png)
 # Requirements
 
