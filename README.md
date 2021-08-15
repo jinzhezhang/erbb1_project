@@ -6,6 +6,13 @@ This project uses 3 generative models: RXN Generator, JT-VAE and ChemTS, and 1 p
 ![title](images/ic50_density.png)
 # Requirements
 
+    <html>
+      <head>
+      conda env create -f environment.yml
+      </head>
+    </html>
+
+
 # Usage
 
 For usage of each model, please refer to the corresponding ipynb file.
