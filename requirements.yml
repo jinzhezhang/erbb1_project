@@ -1,3 +1,4 @@
+name: erbb1
 channels:
   - pytorch
   - conda-forge
