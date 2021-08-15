@@ -2,6 +2,13 @@
 
 This project uses 3 generative models: RXN Generator, JT-VAE and ChemTS, and 1 predictive model: GNN, to generate candidates with good affinity against erbb1 receptor.
 
+# Requirements
+
+# Usage
+
+For usage of each model, please refer to the corresponding ipynb file.
+
+# Credits:
 
 RXN Generator code is inspired by the orginal work of Dai Hai Nguyen:
 
@@ -24,4 +31,4 @@ GNN predictive model is inspired by Tsubaki et al.'s work:
 https://academic.oup.com/bioinformatics/article/35/2/309/5050020?login=true
 https://github.com/masashitsubaki/molecularGNN_smiles
 
-For usage of each model, please refer to the corresponding ipynb file.
+All modifications and other code are created by: Jinzhe Zhang
