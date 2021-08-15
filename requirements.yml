@@ -1,4 +1,3 @@
-name: rxtree1
 channels:
   - pytorch
   - conda-forge
