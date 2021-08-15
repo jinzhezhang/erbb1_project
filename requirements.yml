@@ -1,4 +1,4 @@
-name: rxtree1
+name: erbb1
 channels:
   - pytorch
   - conda-forge
@@ -173,7 +173,5 @@ dependencies:
     - defusedxml==0.7.1
     - rd-filters==0.1
     - seaborn==0.11.1
-    - theano==0.8.0
     - tinycss2==1.1.0
     - webencodings==0.5.1
-prefix: /home/zhang/anaconda3/envs/rxtree1
