@@ -2,6 +2,8 @@
 
 This project uses 3 generative models: RXN Generator, JT-VAE and ChemTS, and 1 predictive model: GNN, to generate candidates with good affinity against erbb1 receptor.
 
+
+![title](images/ic50_density.png)
 # Requirements
 
 # Usage
