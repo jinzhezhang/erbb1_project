@@ -15,7 +15,7 @@ An example of RXN Generator generated molecule candidate with synthetic pathway 
 ![title](images/rxn_route1.png)
 # Requirements
 
-    conda env create -f environment.yml
+    conda env create -f requirements.yml
 
 Also, you will need a specific version of theano, which there is no way to install using conda library. Please follow these steps:
 
