@@ -17,7 +17,7 @@ An example of RXN Generator generated molecule candidate with synthetic pathway 
 
     conda env create -f requirements.yml
 
-Also, you will need a specific version of theano, which there is no way to install using conda library. Please follow these steps:
+Also, if you run any of the VAE based models (JT-VAE or RXN Generator), you will need a specific version of theano, which there is no way to install using conda library. Please follow these steps:
 
 1. Download files of the whole project of https://github.com/mkusner/grammarVAE/
 2. Theano_master is one subdirectory of the project, please record its path
